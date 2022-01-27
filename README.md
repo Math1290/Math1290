@@ -1,5 +1,5 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Matheus Santos</h1>
- <h1>🚧Em construção🚧</h1>
+<br>
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, e Python. <br>
 - Ache-me no <a href="https://www.linkedin.com/in/matheus-santos-0b8822228/" color="#2e77d0"> Linkedin <a> 
 	
@@ -9,7 +9,8 @@
 
 
 <br>
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Math1290&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 	<img margin-left="2em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math1290&layout=compact&langs_count=7&theme=dark"/>
 	</div>
+ <h1>🚧Em construção🚧</h1>
