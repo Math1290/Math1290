@@ -10,8 +10,8 @@
 <br>
 <div>
 <a href="https://github.com/Math1290">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Math1290&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img margin-left="2em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math1290&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Math1290&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img margin-left="2em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math1290&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
 	
 ![Snake animation](https://github.com/Math1290/Math1290/blob/output/github-contribution-grid-snake.svg)
